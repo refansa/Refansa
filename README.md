@@ -21,7 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refansa&show_icons=true&locale=en&layout=compact" alt="refansa" /></p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=refansa&show_icons=true&locale=en" alt="refansa" /></p>
+
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refansa&" alt="refansa" /></p>
 

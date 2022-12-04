@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Refansa</h1>
-<h3 align="center">An ambitious Programmer and Developer from Indonesia</h3>
+<h3 align="center">An ambitious Programmer & Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refansa&label=Profile%20views&color=0e75b6&style=flat" alt="refansa" /> </p>
 

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **m.refansa.am@gmail.com**
 
-- ⚡ Fun fact **Reality is actually doesn't exist**
+- ⚡ Fun fact **There is no Fun fact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
